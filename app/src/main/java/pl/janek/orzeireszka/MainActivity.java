@@ -33,9 +33,6 @@ class MojListener implements View.OnClickListener {
 
 
     volatile boolean monetaSieKreci = false;
-    int liczbaorłow = 0;
-    int liczbareszek = 0;
-
 
     public MojListener(ImageView view) {
         this.widokMonety = view;
